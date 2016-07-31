@@ -4,7 +4,7 @@ require 'sinatra/reloader'
 require 'json'
 require 'csv'
 
-csv_data = CSV.read('data/difficulty.latest.csv', headers:true)
+csv_data = CSV.read('data/difficulty.csv', headers:true)
 
 datas = Array.new
 

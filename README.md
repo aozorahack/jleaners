@@ -5,4 +5,4 @@
 ./calc_difficulty.sh list_person_all_extended_utf8.csv
 ```
 
-web appはそれを利用して簡単な順に並べる
+web appはそれを利用してJLPTのレベルに応じた読みやすい順に並べる

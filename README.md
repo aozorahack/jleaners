@@ -6,3 +6,7 @@
 ```
 
 web appはそれを利用してJLPTのレベルに応じた読みやすい順に並べる
+
+```
+bundle exec ruby app.rb -o 0.0.0.0
+```
